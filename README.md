@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sangif29
+- 👀 I’m interested in Cybersecurity aswell in Software Development
+- 🌱 I’m currently in uni and studying Computer Science
